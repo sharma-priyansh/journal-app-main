@@ -43,7 +43,6 @@ export default function RootLayout({ children }) {
           <footer className="bg-orange-300 py-12 bg-opacity-10">
             <div className="container mx-auto px-4 text-center text-gray-900">
               <p>Made with 💗 by Priyansh</p>
-              <p>Inspired by RoadsideCoder.</p>
             </div>
           </footer>
         </body>
